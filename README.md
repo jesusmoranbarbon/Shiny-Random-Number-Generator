@@ -15,3 +15,5 @@ First steps: Select your options and push "Generate" button, after, you can chan
 <p><code>runGitHub("Shiny-Random-Number-Generator", username = "jesusmoranbarbon", subdir = "App")</code></p>
 
 Note: If you do not have the shiny library, you must download it (http://cran.r-project.org/web/packages/shiny/index.html)
+
+A presentation of the app is in: http://jesusmoranbarbon.github.io/Shiny-Random-Number-Generator/Slides/
