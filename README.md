@@ -10,9 +10,9 @@ When one option is changed or when you push "Generate" button, the random number
 
 First steps: Select your options and push "Generate" button, after, you can change the options or push "Generate" button"
 
-If you want run the app without download the code, you can execute the next R command:
-<code>
+<p>If you want run the app without download the code, you can execute the next R command:</p>
+<p><code>
 library(shiny)
-runGitHub("Shiny-Random-Number-Generator", username = "jesusmoranbarbon", subdir = "App")</code>
+runGitHub("Shiny-Random-Number-Generator", username = "jesusmoranbarbon", subdir = "App")</code></p>
 
 Note: If you do not have the shiny library, you must download it (http://cran.r-project.org/web/packages/shiny/index.html)
