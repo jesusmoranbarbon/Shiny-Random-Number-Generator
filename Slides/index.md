@@ -17,7 +17,7 @@ knit        : slidify::knit2slides
 
 <h1><strong>Generate random numbers based on the user options</strong></h1>
 <hr>
-<p>For example 63, 7, 8, 22, 36, 82, 46, 65, 72, 26, 17, 65, 99, 7</p>
+<p>For example 48, 69, 89, 16, 18, 92, 25, 67, 67, 11, 27, 86, 71, 19</p>
 
 
 --- .class #id bg:#A9E2F3
@@ -32,8 +32,10 @@ knit        : slidify::knit2slides
 <hr>
 
 For run the app:
-<p>library(shiny)</p>
-<p>runGitHub("Shiny-Random-Number-Generator", username = "jesusmoranbarbon", subdir = "App")</p>
+<a href="https://jesusmoranbarbon.shinyapps.io/RandomNumberGenerator/">Link to shinyapps io</a>
+
+Code for app:
+<a href="https://github.com/jesusmoranbarbon/Shiny-Random-Number-Generator/tree/master/App">Github</a>
 
 
 --- .bigger bg:#FAFAFA
@@ -53,7 +55,7 @@ What happen when you generate the random numbers and then you change the options
 2. _The random number are re-generated_
 
 *** .hint
-Wrong!! The random number are re-generated. For example: 24, 41, 40, 44, 9, 39
+Wrong!! The random number are re-generated. For example: 3, 100, 34, 99, 97, 67
 
 *** .explanation
-Good!! When you change the options the random numbers are automatically re-generated with the new choices. For example: 85, 31, 2, 58, 71, 88
+Good!! When you change the options the random numbers are automatically re-generated with the new choices. For example: 59, 88, 75, 30, 3, 30
