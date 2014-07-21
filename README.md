@@ -10,10 +10,11 @@ When one option is changed or when you push "Generate" button, the random number
 
 First steps: Select your options and push "Generate" button, after, you can change the options or push "Generate" button"
 
-<p>If you want run the app without download the code, you can execute the next R command:</p>
+A presentation of the app is in: http://jesusmoranbarbon.github.io/Shiny-Random-Number-Generator/Slides/
+
+You can run the app in the next link: https://jesusmoranbarbon.shinyapps.io/RandomNumberGenerator/
+
+<p>If you want to run the app in your compute (in local mode), you can execute the next R command:</p>
 <p><code>library(shiny)</code></p>
 <p><code>runGitHub("Shiny-Random-Number-Generator", username = "jesusmoranbarbon", subdir = "App")</code></p>
-
 Note: If you do not have the shiny library, you must download it (http://cran.r-project.org/web/packages/shiny/index.html)
-
-A presentation of the app is in: http://jesusmoranbarbon.github.io/Shiny-Random-Number-Generator/Slides/
